@@ -53,7 +53,7 @@ Sprint Backlog:
 - Notifications system  
 - Delivery partner details  
 
-Flow Diagram 
+7. Flow Diagram 
 A[User Places Order] --> B[Order Confirmed] 
 B --> C[Order Preparing] C --> D[Order Dispatched] 
 D --> E[Out for Delivery] E --> F[Show Delivery Partner Details] 
@@ -65,43 +65,39 @@ J --> K[Order Delivered]
 I --> K 
 K --> L[User Receives Confirmation] 
 
-Expected Outcomes
+8. Expected Outcomes
 - Reduced customer support queries  
 - Improved user satisfaction  
 - Increased order completion rate  
 - Better trust in the platform  
 
-Tools & Skills Used
+9. Tools & Skills Used
 - Business Analysis  
 - Requirement Gathering  
 - Agile (User Stories & Acceptance Criteria)  
 - Data Analysis (User Behavior & Feedback)
 
-7. Core Metrics for your project:
-Order Tracking Visibility Rate
+10. Core Metrics for your project:
+a. Order Tracking Visibility Rate
 % of users who viewed tracking after placing order.
 
-Notification Delivery Rate
+b. Notification Delivery Rate
 % of notifications successfully delivered.
 
-Average Tracking Load Time
+c. Average Tracking Load Time
 Time taken to load tracking screen.
 
-Customer Support Queries
+d. Customer Support Queries
 Number of “Where is my order?” complaints.
 
-Order Completion Rate
+e. Order Completion Rate
 % of orders successfully delivered without cancellation.
 
-Metric                          Before                               After
-
-Tracking Visibility              40%                                  75%
-
-Load Time                        5 sec                               1.8 sec
-
-Support Queries                 High                               Reduced by 30%
-
-Order Completion                65%                                   85%
+11. Metrics                                                      
+- Tracking Visibility-(Before-40%)(After-75%)                               
+- Load Time-(Before-5sec)(After-1.8sec)
+- Support Queries-(Before-High)(After-Reduced by 30%)
+- Order Completion(Before-65%)(After-85%)
 
 A dashboard can be built using this dataset to track:
 - Order tracking visibility
