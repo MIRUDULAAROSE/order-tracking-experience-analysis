@@ -1,6 +1,9 @@
 # order-tracking-experience-analysis
 Improving order tracking experience using Business Analysis and data-driven insights
 
+# Project Overview:
+This project focuses on improving the order tracking experience in a food delivery app by identifying performance issues and enhancing real-time visibility using Business Analysis and data-driven insights
+
 # 1. Problem Statement
 
 Users are not receiving clear and timely updates after placing an order.  
@@ -84,6 +87,7 @@ Lack of transparency in delivery status leads to poor user experience, increased
 - Agile (User Stories & Acceptance Criteria)  
 - Data Analysis through Excel (User Behavior & Feedback)
 - Power BI (Data Visualization)
+- DAX
 
 # 10. Core Metrics for your project:
  - Order Tracking Visibility Rate (% of users who viewed tracking after placing order)
@@ -118,9 +122,14 @@ A dashboard can be built using this dataset to track:
 - Customer support trends
 
 # 15. Key Highlights from Dashboard
-- Average load time and slow orders indicate performance issues  
-- Delivery success rate shows overall system efficiency  
-- Support queries highlight customer pain points
+- High load time (>2 sec) impacts delivery experience  
+- Delayed deliveries lead to increased support queries  
+- Real-time tracking improves customer trust and reduces complaints
+
+# 16. Expected Impact
+- Reduce support queries by 20–30%  
+- Improve delivery transparency  
+- Increase user satisfaction
 
 # Project Type:
 Business Analysis Case Study (Portfolio Project)
