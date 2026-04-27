@@ -98,12 +98,29 @@ Lack of transparency in delivery status leads to poor user experience, increased
 - Support Queries-(Before-High)(After-Reduced by 30%)
 - Order Completion(Before-65%)(After-85%)
 
-# 12. Dashboard
+# 12. Business Impact
+- Reduced customer uncertainty during delivery  
+- Improved transparency in order tracking  
+- Potential reduction in support queries  
+- Enhanced user satisfaction and trust
+
+# 13. Key Insights
+- High load time (>2 sec) is directly linked to delayed deliveries  
+- Orders with delayed notifications have higher support queries  
+- Improving real-time tracking can reduce customer complaints significantly  
+- Faster performance leads to higher order completion rate
+
+# 14. Dashboard
 A dashboard can be built using this dataset to track:
 - Order tracking visibility
 - Delivery performance
 - App performance metrics
 - Customer support trends
+
+# 15. Key Highlights from Dashboard
+- Average load time and slow orders indicate performance issues  
+- Delivery success rate shows overall system efficiency  
+- Support queries highlight customer pain points
 
 # Project Type:
 Business Analysis Case Study (Portfolio Project)
