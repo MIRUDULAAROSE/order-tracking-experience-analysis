@@ -30,40 +30,41 @@ Lack of transparency in delivery status leads to poor user experience, increased
 - User data should be secure  
 
 6. Agile Approach
-Epic
-Improve Order Tracking Experience
+  Epic
+  Improve Order Tracking Experience
 
-User Stories
+  User Stories
 - As a user, I want to see real-time order status so that I know when my food will arrive  
 - As a user, I want to receive notifications so that I stay updated  
 - As a user, I want to view delivery partner details so that I can contact them  
 - As a user, I want to track my order on a map so that I can estimate delivery time  
 
-Acceptance Criteria
+  Acceptance Criteria
 - Order status updates in real-time  
 - Notifications are sent without delay  
 - Delivery partner details are visible and functional  
 - Map tracking is accurate and loads within 2 seconds  
 
 Sprint Plan
-Sprint Goal: Improve order tracking visibility  
+- Sprint Goal: Improve order tracking visibility  
 
 Sprint Backlog:
 - Real-time order status  
 - Notifications system  
 - Delivery partner details  
 
-7. Flow Diagram 
-A[User Places Order] --> B[Order Confirmed] 
-B --> C[Order Preparing] C --> D[Order Dispatched] 
-D --> E[Out for Delivery] E --> F[Show Delivery Partner Details] 
-F --> G[Live Location Tracking] 
-G --> H{Any Delay?} 
-H -- Yes --> I[Send Delay Notification] 
-H -- No --> J[Continue Tracking] 
-J --> K[Order Delivered] 
-I --> K 
-K --> L[User Receives Confirmation] 
+7. Flow Diagram:
+   
+ A[User Places Order] --> B[Order Confirmed] 
+ B --> C[Order Preparing] C --> D[Order Dispatched] 
+ D --> E[Out for Delivery] E --> F[Show Delivery Partner Details] 
+ F --> G[Live Location Tracking] 
+ G --> H{Any Delay?} 
+ H -- Yes --> I[Send Delay Notification] 
+ H -- No --> J[Continue Tracking] 
+ J --> K[Order Delivered] 
+ I --> K 
+ K --> L[User Receives Confirmation] 
 
 8. Expected Outcomes
 - Reduced customer support queries  
@@ -78,20 +79,11 @@ K --> L[User Receives Confirmation]
 - Data Analysis (User Behavior & Feedback)
 
 10. Core Metrics for your project:
-a. Order Tracking Visibility Rate
-% of users who viewed tracking after placing order.
-
-b. Notification Delivery Rate
-% of notifications successfully delivered.
-
-c. Average Tracking Load Time
-Time taken to load tracking screen.
-
-d. Customer Support Queries
-Number of “Where is my order?” complaints.
-
-e. Order Completion Rate
-% of orders successfully delivered without cancellation.
+ - Order Tracking Visibility Rate (% of users who viewed tracking after placing order)
+ -  Notification Delivery Rate (% of notifications successfully delivered)
+ - Average Tracking Load Time (Time taken to load tracking screen)
+ - Customer Support Queries (Number of “Where is my order?” complaints)
+ - Order Completion Rate(% of orders successfully delivered without cancellation)
 
 11. Metrics                                                      
 - Tracking Visibility-(Before-40%)(After-75%)                               
