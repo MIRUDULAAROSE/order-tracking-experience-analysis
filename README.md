@@ -26,28 +26,35 @@ Lack of transparency in delivery status leads to poor user experience, increased
 - Poor communication between system and delivery partners
 - Lack of real-time GPS tracking
 
-# 5. Business Requirements (BRD)
+# 5. Tools & Skills Used
+- Business Analysis  
+- Requirement Gathering
+- Agile (User Stories & Acceptance Criteria)  
+- Data Analysis through Excel (User Behavior & Feedback)
+- Power BI (Data Visualization)
+- DAX
 
+# 6. Business Requirements (BRD)
 - Provide clear and timely delivery updates  
 - Improve transparency in order tracking  
 - Enable smooth communication between users and delivery partners  
 - Reduce order-related customer complaints  
 
-# 6. Functional Requirements (FRD)
+# 7. Functional Requirements (FRD)
 
 - System should display real-time order status (confirmed, preparing, dispatched, out for delivery)  
 - System should send notifications for each order update  
 - System should display delivery partner details (name & contact)  
 - System should allow users to track delivery partner location on map  
 
-# 7. Non-Functional Requirements (NRD)
+# 8. Non-Functional Requirements (NRD)
 
 - Page load time should be less than 2 seconds  
 - System should provide real-time and accurate updates  
 - Application should have high availability (99%)  
 - User data should be secure  
 
-# 8. Agile Approach
+# 9. Agile Approach
  
 # Epic
   Improve Order Tracking Experience
@@ -74,7 +81,7 @@ Lack of transparency in delivery status leads to poor user experience, increased
 - Notifications system  
 - Delivery partner details  
 
-# 9. Flow Diagram:
+# 10. Flow Diagram:
    
  A[User Places Order] --> B[Order Confirmed] 
  B --> C[Order Preparing] C --> D[Order Dispatched] 
@@ -87,19 +94,12 @@ Lack of transparency in delivery status leads to poor user experience, increased
  I --> K 
  K --> L[User Receives Confirmation] 
 
-# 10. Expected Outcomes
+# 11. Expected Outcomes
 - Reduced customer support queries  
 - Improved user satisfaction  
 - Increased order completion rate  
 - Better trust in the platform  
 
-# 11. Tools & Skills Used
-- Business Analysis  
-- Requirement Gathering  
-- Agile (User Stories & Acceptance Criteria)  
-- Data Analysis through Excel (User Behavior & Feedback)
-- Power BI (Data Visualization)
-- DAX
 
 # 12. Core Metrics for the project:
  - Order Tracking Visibility Rate (% of users who viewed tracking after placing order)
@@ -121,31 +121,31 @@ Lack of transparency in delivery status leads to poor user experience, increased
 - Faster performance leads to higher order completion rate
 
   
-# 14. Business Impact
+# 15. Business Impact
 - Reduced customer uncertainty during delivery  
 - Improved transparency in order tracking  
 - Potential reduction in support queries  
 - Enhanced user satisfaction and trust
 
 
-# 15. Dashboard
+# 16. Dashboard
 A dashboard can be built using this dataset to track:
 - Order tracking visibility
 - Delivery performance
 - App performance metrics
 - Customer support trends
 
-# 16. Key Highlights from Dashboard
+# 17. Key Highlights from Dashboard
 - High load time (>2 sec) impacts delivery experience  
 - Delayed deliveries lead to increased support queries  
 - Real-time tracking improves customer trust and reduces complaints
 
-# 16. Expected Impact
+# 18. Expected Impact
 - Reduce support queries by 20–30%  
 - Improve delivery transparency  
 - Increase user satisfaction
 
-# 17. Business Recommendations
+# 19. Business Recommendations
 - Implement real-time GPS tracking
 - Improve ETA prediction algorithms
 - Increase frequency of status updates
